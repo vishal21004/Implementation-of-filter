@@ -1,4 +1,6 @@
-# Implementation-of-filter
+# EX 05:Implementation-of-filter
+### NAME : VISHAL M.A
+### REG NO: 212222230177
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
